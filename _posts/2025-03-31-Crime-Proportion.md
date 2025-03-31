@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Time-Series Analysis of Proportion of Drug/Narcotic Crimes in San Fransisco"
 date:   2025-03-31 09:14:04 +0100
 categories: lol
