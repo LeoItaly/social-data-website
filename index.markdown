@@ -23,7 +23,7 @@ While fentanyl affected communities across San Francisco, its impact was most vi
 
 <div >
   <a id="bokeh1"></a>
-  <iframe src="{{ site.baseurl }}/sf_drug_interactive.html" width="108%" height="500" frameborder="0" scrolling="no">
+  <iframe src="{{ site.baseurl }}/sf_drug_interactive.html" width="108%" height="600" frameborder="0" scrolling="no">
     Your browser does not support iframes. You can view the interactive plot <a href="{{ site.baseurl }}/sf_drug_interactive.html">here</a>.
   </iframe>
 </div>
